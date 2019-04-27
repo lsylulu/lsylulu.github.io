@@ -1,2 +1,2 @@
 # lsylulu.github.io
-个人博客
+我的个人简介
